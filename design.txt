@@ -1,0 +1,41 @@
+Purpose Lone Knights Quest of Survival In the hidden forest
+#Input#1 Int
+Enter age of character
+if # > 10:
+    strength = 5
+    print Character strength value
+    elif # = 10
+        strength = 2
+        print Character strength value
+else: strength = 1
+    print character strength value
+#output #1 character strength
+input character begins his journey
+while traversing alone throughout the woods
+the hero encounters an enemy foe
+Input#2 Str
+Character encounters enemy knight with 4 strength
+    Character has option to fight or not to fight
+    If character fights
+        if strength > 4
+           print U won fight
+           elif strength < 4
+           print U lost fight and ran away
+        else:
+            print you both got scared and ran away
+Output#2 result of encounter
+Input#3 Float
+print You have unlocked the ability of Ghost:
+print would you like to split your strength in half in order to split your strength and ghost abilities evenly?
+intput (if yes type out .5 if not type 1)
+    if # = .5
+        strength = 3
+        ghost = 3
+        print strength =:
+        print strength =:
+    else # = 1
+        strength = 6
+        ghost equals = 0
+        print strength =:
+        print strength =:
+After upgrading charcter print the quest continues in the sequal A Knights Trail to Redemption 2 coming in the summer of 2023
